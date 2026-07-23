@@ -1,3 +1,31 @@
+# freeCodeCamp
+
+freeCodeCamp.orgs open-source codebase and curriculum. Learn math, programming, and computer science for free.
+
+## Overview
+freeCodeCamp.orgs open-source codebase and curriculum. Learn math, programming, and computer science for free.
+
+## Tech Stack
+- TypeScript
+
+## Project Structure
+```
+freeCodeCamp/
+  - api
+  - client
+  (1452 files total)
+```
+
+## Getting Started
+
+### Usage
+Open index.html in your browser or serve locally.
+Use: npx serve .
+
+## Original README
+<details>
+<summary>Click to expand original README</summary>
+
 [![freeCodeCamp Social Banner](https://cdn.freecodecamp.org/platform/universal/fcc_banner_new.png)](https://www.freecodecamp.org/)
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://makeapullrequest.com)
@@ -265,3 +293,24 @@ The content of this repository is bound by the following licenses:
 
 - The computer software is licensed under the [BSD-3-Clause](LICENSE.md) license.
 - The learning resources in the [`/curriculum`](/curriculum) directory including their subdirectories thereon are copyright © 2025 freeCodeCamp.org
+
+</details>
+
+## TODO / Roadmap
+- [ ] Add CI/CD pipeline
+- [ ] Add contribution guidelines (CONTRIBUTING.md)
+- [ ] Improve error handling and edge cases
+- [ ] Add environment variable documentation
+- [ ] Add code comments and inline documentation
+
+## Deployment
+This project can be deployed to Netlify, Vercel, or any static host.
+
+## Author
+**Neal Frazier** - [@AshAmplifies](https://github.com/1nc0gn30)
+
+## Links
+- GitHub: https://github.com/1nc0gn30/freeCodeCamp
+
+---
+*This README was enhanced as part of the neals-projects-2026 batch update.*
