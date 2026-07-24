@@ -1,14 +1,26 @@
-# freeCodeCamp
+<!-- xonettn -->
+<div align="center">
+
+# 📦 Freecodecamp
+
+(1452 files total)
+
+
+![Deploy](https://img.shields.io/badge/Deployed-Netlify-00C7B7?logo=netlify&logoColor=white)
+
+</div>
+
+---
 
 freeCodeCamp.orgs open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
-## Overview
+## 📋 Overview
 freeCodeCamp.orgs open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
-## Tech Stack
+## 📦 Tech Stack
 - TypeScript
 
-## Project Structure
+## 🗂️ Project Structure
 ```
 freeCodeCamp/
   - api
@@ -16,13 +28,13 @@ freeCodeCamp/
   (1452 files total)
 ```
 
-## Getting Started
+## 🚀 Getting Started
 
-### Usage
+### 📖 Usage
 Open index.html in your browser or serve locally.
 Use: npx serve .
 
-## Original README
+## 📂 Original README
 <details>
 <summary>Click to expand original README</summary>
 
@@ -269,13 +281,13 @@ If you think you've found a bug, first read the [how to report a bug](https://fo
 
 If you're confident it's a new bug and have confirmed that someone else is facing the same issue, go ahead and create a new GitHub issue. Be sure to include as much information as possible so we can reproduce the bug.
 
-### Reporting Security Issues and Responsible Disclosure
+### 🔒 Reporting Security Issues and Responsible Disclosure
 
 We appreciate responsible disclosure of vulnerabilities that might impact the integrity of our platforms and users.
 
 > #### [Read our security policy and follow these steps to report a vulnerability](https://contribute.freecodecamp.org/#/security).
 
-### Contributing
+### 🤝 Contributing
 
 The freeCodeCamp.org community is possible thanks to thousands of kind volunteers like you. We welcome all contributions to the community and are excited to welcome you aboard.
 
@@ -285,7 +297,7 @@ Recent Contributions:
 
 ![Alt](https://repobeats.axiom.co/api/embed/89be0a1a1c8f641c54f9234a7423e7755352c746.svg 'Repobeats analytics image')
 
-### License
+### 📜 License
 
 Copyright © 2025 freeCodeCamp.org
 
@@ -296,21 +308,29 @@ The content of this repository is bound by the following licenses:
 
 </details>
 
-## TODO / Roadmap
+## 📝 TODO / Roadmap
 - [ ] Add CI/CD pipeline
 - [ ] Add contribution guidelines (CONTRIBUTING.md)
 - [ ] Improve error handling and edge cases
 - [ ] Add environment variable documentation
 - [ ] Add code comments and inline documentation
 
-## Deployment
+## 🚀 Deployment
 This project can be deployed to Netlify, Vercel, or any static host.
 
-## Author
+## 👤 Author
 **Neal Frazier** - [@AshAmplifies](https://github.com/1nc0gn30)
 
-## Links
+## 🔗 Links
 - GitHub: https://github.com/1nc0gn30/freeCodeCamp
 
 ---
 *This README was enhanced as part of the neals-projects-2026 batch update.*
+
+---
+
+<div align="center">
+
+**[xonettn]** · Built by [Neal Frazier](https://github.com/1nc0gn30) · [@AshAmplifies](https://twitter.com/AshAmplifies)
+
+</div>
